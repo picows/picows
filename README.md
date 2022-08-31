@@ -33,8 +33,8 @@ Below is the information recommended by GitHub for this profile:
   + Starter Websites
   + Desktop and Intranet and Installations 
 - 🌱 I’m currently learning:
-  + Linux, Shell Scripting
-  + PHP
+  + Linux
+  + Shell Scripting, PHP
 - 👯 I’m looking to collaborate on:
   + Expanding the Pico Documentation
   + Pico [Community Themes](https://picocms.org/themes)
