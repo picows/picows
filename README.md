@@ -11,8 +11,8 @@ Pico is a content management system (CMS). You can learn more about Pico at [pic
   + No database: content stored as text, [Markdown](https://daringfireball.net/projects/markdown "Daring FireBall: Markdown Project")
   + [Minimal PHP requirements](https://picocms.org/docs/#install) supported by most commercial hosts
 - Flexible
-  + Pico uses [Twig](https://twig.symfony.com "Twig Website") for templates. It can adopt virtually any HTML template
-  + Pico has a [plugin architecture](https://picocms.org/docs/#plugins)
+  + Pico uses [Twig](https://twig.symfony.com "Twig Website"). It can adopt virtually any HTML template.
+  + Pico has a [plugin architecture](https://picocms.org/docs/#plugins).
 
 ### Pico is Straightforward
 
