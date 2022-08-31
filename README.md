@@ -16,13 +16,13 @@ Pico is a content management system (CMS). You can learn more about Pico at [pic
 
 ### Pico is Straightforward
 
-Pico does not have a backend. The menu is generated based on the folder structure of the content files. Most webmasters, communications personnel, administrative professionals and others already familiar with desktop file operations and text editing, easing their adoption of Pico. 
+Pico does not have a backend. The menu is generated based on the folder structure of the content files. Most webmasters, communications personnel, administrative professionals and others are already familiar with: desktop file operations and text editing - easing their adoption of Pico. 
 
 The routine work of maintaining Pico's content involve the familiar operations:
 
 - Adding and editing text files.
-- Moving files between folders
-- Adding images, documents (and other assets) to a folder
+- Moving files between folders.
+- Adding images, documents (and other assets) to a folder.
 
 ## GitHub Housekeeping
 
