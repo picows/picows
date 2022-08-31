@@ -46,6 +46,6 @@ Below is the information recommended by GitHub for this profile:
   + Converting an existing website to Pico
   + Website Development and Maintenance
 - 📫 How to reach me:
-  + webmaster *aht* picowebsites *doht* com
+  + **webmaster** *aht* **picowebsites** *doht* **com**
 - 😄 Pronouns: We
 - ⚡ Fun fact: We like "Oil Down" 
